@@ -1,0 +1,12 @@
+c:\users\ely\documents\visual studio 2012\Projects\ExampleDB\ExampleDB\bin\Debug\ExampleDB.exe.config
+c:\users\ely\documents\visual studio 2012\Projects\ExampleDB\ExampleDB\bin\Debug\ExampleDB.exe
+c:\users\ely\documents\visual studio 2012\Projects\ExampleDB\ExampleDB\bin\Debug\ExampleDB.pdb
+c:\users\ely\documents\visual studio 2012\Projects\ExampleDB\ExampleDB\obj\Debug\ExampleDB.csprojResolveAssemblyReference.cache
+c:\users\ely\documents\visual studio 2012\Projects\ExampleDB\ExampleDB\obj\Debug\ExampleDB.exe
+c:\users\ely\documents\visual studio 2012\Projects\ExampleDB\ExampleDB\obj\Debug\ExampleDB.pdb
+C:\Users\ELY\documents\visual studio 2012\Projects\ExampleDB\ExampleDB\bin\Debug\EntityFramework.dll
+C:\Users\ELY\documents\visual studio 2012\Projects\ExampleDB\ExampleDB\bin\Debug\SQLite.Designer.dll
+C:\Users\ELY\documents\visual studio 2012\Projects\ExampleDB\ExampleDB\bin\Debug\System.Data.SQLite.dll
+C:\Users\ELY\documents\visual studio 2012\Projects\ExampleDB\ExampleDB\bin\Debug\EntityFramework.xml
+C:\Users\ELY\documents\visual studio 2012\Projects\ExampleDB\ExampleDB\bin\Debug\SQLite.Designer.pdb
+C:\Users\ELY\documents\visual studio 2012\Projects\ExampleDB\ExampleDB\bin\Debug\System.Data.SQLite.pdb
